@@ -1,0 +1,10 @@
+﻿#名字	皮肤文件夹
+$name	dir
+李青/盲僧/瞎子	LeeSin
+泰坦	nautilus
+安妮/火女	annie
+嘉文/皇子/周杰伦	JarvanIV
+VN	Vayne
+轮子妈/希维尔	Sivir
+提莫	Teemo
+寒冰/艾希	Ashe
